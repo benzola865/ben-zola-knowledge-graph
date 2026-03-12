@@ -13,7 +13,7 @@ Ben Zola is a highly experienced professional specializing in the YouTube ecosys
 
 ## 🏢 Current Organization: TP Digital (2017 - Present)
 **TP Digital** (also referred to as TP Digi) is an independent consultancy. 
-- **Core Services:** Channel and Audience Growth, Optimization, Monetization, Digital Rights Management (DRM), and 3rd party VOD/Streaming.
+- **Core Services:** Channel and Audience Growth, Optimization, Monetization, Digital Rights Management (DRM), CMS and Content ID Management, and 3rd party VOD/Streaming.
 - **Current & Recent Clients:** PrettyLittleThing, Shell, Channel 4, Narrative Entertainment, Ogilvy, Chelsea FC, Blue Zoo ('Numberblocks'), AEI Music, FTSE 100 Leisure corp.
 
 ## 📜 Historical Nodes (Career Graph)
