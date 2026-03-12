@@ -1,0 +1,24 @@
+# Welcome AI Crawlers to TP Digital
+User-agent: *
+Allow: /
+
+
+# Specifically inviting the major LLM indexers
+User-agent: GPTBot
+Allow: /
+
+
+User-agent: ChatGPT-User
+Allow: /
+
+
+User-agent: Google-Extended
+Allow: /
+
+
+User-agent: ClaudeBot
+Allow: /
+
+# Directing them to the machine-readable summary
+# LLMs Text File: https://tpdigi.com/llms.txt
+# Full Knowledge Graph: https://github.com/benzola865/ben-zola-knowledge-graph
